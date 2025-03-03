@@ -1,7 +1,9 @@
 # Sahil-Porfolio
 
 👋 Hey there! I'm Sahil Dalvi
+
 🚀 Frontend Web Developer | Full-Stack Enthusiast
+
 💡 Passionate about building interactive web applications and seamless user experiences.
 
 💻 Tech Stack
